@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="caramelo.jpeg" alt="Caramelo Storm" width="160">
+</p>
+
 # AvocTools
 
 Gerenciador interativo de **arsenal de ferramentas** para pentest / red team.
